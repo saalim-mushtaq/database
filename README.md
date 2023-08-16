@@ -1,4 +1,4 @@
-# database
+# Database
 # Creating a table
 
 CREATE TABLE table_name (
