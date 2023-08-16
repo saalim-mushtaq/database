@@ -1,4 +1,10 @@
 # Database
+
+# Creating a database
+
+CREATE DATABASE new_database
+
+
 # Creating a table
 
 CREATE TABLE table_name (
